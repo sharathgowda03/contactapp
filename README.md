@@ -17,7 +17,7 @@
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/LuisSalas94/React-Redux-Contact-App
+$ git clone https://github.com/sharathgowda/React-Redux-Contact-App
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
@@ -32,12 +32,8 @@ $ npm start # or yarn start
 
 ## Live Demo
 
-[Live Demo Link](https://fernando-redux-contact-app.netlify.app/)
+[Live Demo Link](https://sharathgowda-redux-contact-app.netlify.app/)
 
-## Author
-
-- GitHub: [@LuisSalas94](https://github.com/LuisSalas94)
-- LinkedIn: [Fernando Salas](https://www.linkedin.com/in/luisfernandosalasgave/)
 
 ## 🤝 Contributing
 
